@@ -31,6 +31,7 @@ Nieuporzadkowana lista:
 
 ##### Zdjecie
 
-![Fajny pimpek](animal/dog.jpg]) 
+![Pies](animal/dog.jpg)
+ 
 
 
