@@ -21,10 +21,16 @@ Nieuporzadkowana lista:
   print("Hello world")
 ```
 
-### Tabele
+#### Tabele
 
 |zakupy|
 |------|
 |jajka |
 |mleko |
 |chleb |
+
+##### Zdjecie
+
+![Fajny pimpek](~/narzedzia_informatyczne/animal/dog.img])  
+
+
