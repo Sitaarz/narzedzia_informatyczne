@@ -19,7 +19,6 @@ Nieuporzadkowana lista:
 ### Trochę kodu
 ```python
   print("Hello world")  
-  '[;plokiu
 ```
 
 #### Tabele
@@ -32,6 +31,6 @@ Nieuporzadkowana lista:
 
 ##### Zdjecie
 
-![Sliczny Pimpek](narzedzia_informatyczne/animal/dog.jpg)
+
 
 
