@@ -18,7 +18,7 @@ Nieuporzadkowana lista:
 
 ### Trochę kodu
 ```python
-  print("Hello world")
+  print("Hello world")  
 ```
 
 #### Tabele
@@ -29,9 +29,8 @@ Nieuporzadkowana lista:
 |mleko |
 |chleb |
 
-##### Zdjecie
+##### Zdjeci
 
 ![Pies](animal/dog.jpg)
- 
 
 
